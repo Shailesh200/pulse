@@ -34,3 +34,19 @@ export const chessSchoolEvents = {
   gameStart: 'game_start',
   gameEnd: 'game_end',
 } as const
+
+export const prismhqEvents = {
+  ctaClick: 'cta_click',
+  navClick: 'nav_click',
+  footerClick: 'footer_click',
+  productClick: 'product_click',
+  installCopy: 'install_copy',
+  installOpen: 'install_open',
+  installAgent: 'install_agent',
+  docsClick: 'docs_click',
+  docsSearch: 'docs_search',
+  starClick: 'star_click',
+  changelogVersion: 'changelog_version',
+  sectionClick: 'section_click',
+  outboundClick: 'outbound_click',
+} as const

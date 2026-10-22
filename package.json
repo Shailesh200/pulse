@@ -1,6 +1,6 @@
 {
   "name": "@shailesh200/pulse-tracker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Umami loader and event helpers for pulse.shaileshjha.in",
   "license": "MIT",
   "type": "module",

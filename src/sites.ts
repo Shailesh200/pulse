@@ -26,12 +26,12 @@ export const sites = {
   chessSchool: {
     name: 'ChessSchool',
     domain: 'chess-school.in',
-    websiteId: '',
+    websiteId: '4bb7a0af-823c-4a21-a4ab-509a7815cf02',
   },
   prismhq: {
     name: 'PrismHQ',
     domain: 'prismhq.in',
-    websiteId: '',
+    websiteId: '837be913-9493-45dc-8a1a-2483bc2b58e9',
   },
 } as const satisfies Record<string, PulseSite>
 
